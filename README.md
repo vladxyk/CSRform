@@ -1,1 +1,3 @@
-# VKR
+# CSR form
+
+CSRmatrix-vector multiplication
